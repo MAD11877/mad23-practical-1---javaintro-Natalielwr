@@ -32,7 +32,7 @@ public class Question5
     ArrayList<Integer> numList = new ArrayList<Integer>(); //creates numlist which stores all the user inputs
      
      Scanner in = new Scanner(System.in);
-     
+     int numoftimes = in.nextInt();
      int num = 0;
      
      //loop to get input
